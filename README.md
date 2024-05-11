@@ -1,0 +1,2 @@
+# blog
+nayuta's blog
